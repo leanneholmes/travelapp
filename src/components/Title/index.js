@@ -1,18 +1,9 @@
-import React, {useState} from 'react';
+import React from 'react';
 import {Text} from 'react-native';
 import styles from './styles';
 
-const Title = ({text}) => {
-  const [stateText, setStateText] = useState('Default state');
-
-  const onTextPress = () => {
-    setStateText('Updated state');
-  };
-  return (
-    <Text onPress={onTextPress} style={styles.title}>
-      {stateText}
-    </Text>
-  );
+const Title = ({text, style}) => {
+  return <Text style={[styles.title, style]}>{text}</Text>;
 };
 
 Title.defaultProps = {
