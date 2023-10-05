@@ -7,7 +7,7 @@ const Title = ({text, style}) => {
 };
 
 Title.defaultProps = {
-  text: 'Hello World',
+  text: '',
 };
 
 export default Title;

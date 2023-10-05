@@ -9,7 +9,7 @@ import categories from '../../../data/categories.json';
 
 const ALL = 'All';
 
-const Home = () => {
+const Home = ({navigation}) => {
   const [selectedCategory, setSelectedCategory] = useState(ALL);
   const [data, setData] = useState([]);
 
@@ -61,6 +61,7 @@ const Home = () => {
                 ? {marginRight: 12, marginLeft: 32}
                 : {marginRight: 32}
             }
+            onPress={() => navigation.navigate('AttractionDetails', {item})}
             imageSrc={item.images?.length ? item.images[0] : null}
             title={item.name}
             subtitle={item.city}

@@ -11,7 +11,7 @@
     "categories": ["Most Visited", "Historical"],
     "images": [
       "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
-      "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
+      "https://cdn.getyourguide.com/img/tour/63e25a0715b5d.jpeg/145.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
       "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
       "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
@@ -96,7 +96,10 @@
     "closing_time": "07:00 PM",
     "categories": ["Most Visited"],
     "images": [
-      "https://cdn.getyourguide.com/img/tour/6846dd5a4aca76ec.jpeg/145.jpg"
+      "https://cdn.getyourguide.com/img/tour/6846dd5a4aca76ec.jpeg/145.jpg",
+      "https://www.spain.info/export/sites/segtur/.content/imagenes/reportajes/cataluna/sagrada-familia-interior.jpg",
+      "https://upload.travelawaits.com/ta/uploads/2023/06/la-sagrada-familia-barca-800x800.jpg",
+      "https://cdn-imgix.headout.com/mircobrands-content/image/aee0888f08039ce86066ef710428eddb-Sagrada%20Familia%20the%20crypt.jpg"
     ],
     "coordinates": {
       "lat": 43.723,
@@ -150,7 +153,8 @@
     "closing_time": "07:00 PM",
     "categories": ["Recommended"],
     "images": [
-      "https://www.neuschwanstein.de/bilder/schloss/neuschwanstein500.jpg"
+      "https://www.neuschwanstein.de/bilder/schloss/neuschwanstein500.jpg",
+      "https://images5.alphacoders.com/129/thumb-1920-1298593.jpg"
     ],
     "coordinates": {
       "lat": 43.723,
@@ -186,7 +190,9 @@
     "closing_time": "07:00 PM",
     "categories": ["Recommended"],
     "images": [
-      "https://wheretostayinbudapest.com/wp-content/uploads/2019/03/budapest-2500381_1280.jpg"
+      "https://wheretostayinbudapest.com/wp-content/uploads/2019/03/budapest-2500381_1280.jpg",
+      "https://i.redd.it/se88cbgevn041.jpg",
+      "https://i.pinimg.com/1200x/3f/d9/69/3fd969a27977b2e84c45e3ce74330512.jpg"
     ],
     "coordinates": {
       "lat": 43.723,
